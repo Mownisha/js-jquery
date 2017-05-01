@@ -1,0 +1,159 @@
+body {
+  background-color: teal;
+}
+
+.js-show {
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click:hover {
+  text-decoration: underline;
+}
+
+.jq-show {
+  display: none;
+}
+
+.click1 {
+  cursor: pointer;
+  color: green;
+}
+
+.click1:hover {
+  text-decoration: underline;
+}
+
+.ope-show {
+  display: none;
+}
+
+.click2 {
+  cursor: pointer;
+  color: yellow;
+}
+
+.click2:hover {
+  text-decoration: underline;
+}
+
+.var-show {
+  display: none;
+}
+
+.click3 {
+  cursor: pointer;
+  color: black;
+}
+
+.click3:hover {
+  text-decoration: underline;
+}
+
+.vnc-show {
+  display: none;
+}
+
+.click4 {
+  cursor: pointer;
+  color: purple;
+}
+
+.click4:hover {
+  text-decoration: underline;
+}
+
+.fun-show {
+  display: none;
+}
+
+.click5 {
+  cursor: pointer;
+  color: pink;
+}
+
+.click5:hover {
+  text-decoration: underline;
+}
+
+.md-show {
+  display: none;
+}
+
+.click6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click6:hover {
+  text-decoration: underline;
+}
+
+.arg-show {
+  display: none;
+}
+
+.click7 {
+  cursor: pointer;
+  color: green;
+}
+
+.click7:hover {
+  text-decoration: underline;
+}
+
+.par-show {
+  display: none;
+}
+
+.click8 {
+  cursor: pointer;
+  color: yellow;
+}
+
+.click8:hover {
+  text-decoration: underline;
+}
+
+.ret-show {
+  display: none;
+}
+
+.click9 {
+  cursor: pointer;
+  color: black;
+}
+
+.click9:hover {
+  text-decoration: underline;
+}
+
+.bool-show {
+  display: none;
+}
+
+.click10 {
+  cursor: pointer;
+  color: purple;
+}
+
+.click10:hover {
+  text-decoration: underline;
+}
+
+.und-show {
+  display: none;
+}
+
+.click11 {
+  cursor: pointer;
+  color: pink;
+}
+
+.click11:hover {
+  text-decoration: underline;
+}
