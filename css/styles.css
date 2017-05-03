@@ -157,3 +157,10 @@ body {
 .click11:hover {
   text-decoration: underline;
 }
+
+p {
+  font-weight: bolder;
+  font-style: italic;
+  color: black;
+  font-family: cursive;
+}
